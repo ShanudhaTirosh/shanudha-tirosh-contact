@@ -1,0 +1,5 @@
+# Dependencies & temp files
+.DS_Store
+Thumbs.db
+*.zip
+shanu-fx-contact-card/
